@@ -1,4 +1,4 @@
-# DFS- Algorithm
+# DFS(Depth-First Search)- Algorithm
 
 Consider this scenario: There are city with names A, B, C, D, E, F, G and H<br>
 This is the connection between the cities:<br>
