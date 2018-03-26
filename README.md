@@ -10,3 +10,4 @@ C is connected to F<br>
 C is connected to G<br>
 E is connected to H<br>
 
+<img width="403" alt="screen shot 2018-03-21 at 12 40 46 pm 2" src="https://user-images.githubusercontent.com/37808666/37918853-de64c524-313f-11e8-8689-05d4da695bcf.png">
